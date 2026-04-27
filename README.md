@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Hamilton Felipe 👋</h1>
+<h1 align="center">Olá, eu me chamo Hamilton Felipe 👋</h1>
 <h3 align="center">💻 Desenvolvedor | React • TypeScript • Next.js</h3>
 
 <p align="center">
