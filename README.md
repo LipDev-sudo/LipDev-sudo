@@ -39,7 +39,7 @@ const hamilton = {
 };
 ```
 
-Sou desenvolvedor frontend apaixonado por criar experiências digitais rápidas, acessíveis e bem desenhadas. Trabalho com o ecossistema **React / Next.js** construindo landing pages, portfolios, catálogos digitais e lojas virtuais para pequenos negócios e profissionais que querem se destacar online.
+Sou desenvolvedor web apaixonado por criar experiências digitais rápidas, acessíveis e bem desenhadas. Trabalho com o ecossistema **React / Next.js** construindo landing pages, portfolios, catálogos digitais e lojas virtuais para pequenos negócios e profissionais que querem se destacar online.
 
 - 🔭 Atualmente desenvolvendo projetos com **Next.js 16 + React 19**
 - 🎨 Foco em **UI animada**, performance e código tipado
