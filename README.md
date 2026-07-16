@@ -2,7 +2,7 @@
 <h3 align="center">💻 Desenvolvedor | React • TypeScript • Next.js</h3>
 
 <p align="center">
-  <a href="https://lipdev-portfolio.vercel.app/" target="_blank">
+  <a href="https://lipdev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/hamilton-felipe-875054383/" target="_blank">
@@ -118,11 +118,11 @@ Sou desenvolvedor web apaixonado por criar experiências digitais rápidas, aces
 
 ## 🌟 Projeto em destaque
 
-### 🚀 [LipDev.BR — Portfolio](https://lipdev-portfolio.vercel.app/)
+### 🚀 [LipDev.BR — Portfolio](https://lipdev.vercel.app/)
 
 Portfolio profissional construído com **Next.js 16, React 19, TypeScript, Tailwind CSS e Framer Motion**. Inclui formulário de contato integrado ao EmailJS, seções animadas, dark mode, internacionalização e integração direta com WhatsApp.
 
-**🔗 Demo:** [lipdev-portfolio.vercel.app](https://lipdev-portfolio.vercel.app/)
+**🔗 Demo:** [lipdev.vercel.app](https://lipdev.vercel.app/)
 
 ---
 
