@@ -1,5 +1,5 @@
-<h1 align="center">Olá, eu me chamo Hamilton Felipe 👋</h1>
-<h3 align="center">💻 Desenvolvedor | React • TypeScript • Next.js</h3>
+<h1 align="center">Hamilton Felipe | LipDev.BR 👋</h1>
+<h3 align="center">💻 Desenvolvedor Web | React • TypeScript • Next.js</h3>
 
 <p align="center">
   <a href="https://lipdev.vercel.app/" target="_blank">
@@ -29,8 +29,8 @@
 
 ```typescript
 const hamilton = {
-  nome: "Hamilton Felipe Soares da Silva",
-  cargo: "Desenvolvedor Frontend",
+  nome: "Hamilton Felipe",
+  cargo: "Desenvolvedor Web",
   localizacao: "Brasil 🇧🇷",
   stack: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
   focoAtual: "Construindo interfaces rápidas, acessíveis e animadas",
@@ -116,20 +116,26 @@ Sou desenvolvedor web apaixonado por criar experiências digitais rápidas, aces
 
 ---
 
-## 🌟 Projeto em destaque
+## 🌟 Projetos em destaque
 
-### 🚀 [LipDev.BR — Portfolio](https://lipdev.vercel.app/)
+| Projeto | O que demonstra | Código | Demo |
+| :--- | :--- | :---: | :---: |
+| **LipDev.BR** | Portfolio profissional em Next.js, React e TypeScript | [GitHub](https://github.com/LipDev-sudo/Portifolio) | [Online](https://lipdev.vercel.app/) |
+| **Ritmoar** | Gestão de trabalho e prioridades com React, TypeScript e Vite | [GitHub](https://github.com/LipDev-sudo/ritmoar) | [Online](https://ritmoar.vercel.app/) |
+| **Horavia** | Agendamentos e gestão de serviços em Next.js e TypeScript | [GitHub](https://github.com/LipDev-sudo/Horavia) | [Online](https://horavia.vercel.app/) |
+| **Trilhara** | Experiência de aprendizagem com percursos e progresso local | [GitHub](https://github.com/LipDev-sudo/trilhara) | [Online](https://trilhara.vercel.app/) |
+| **Pratele** | Catálogo conversacional para produtos sob encomenda | [GitHub](https://github.com/LipDev-sudo/pratele) | [Online](https://pratele.vercel.app/) |
 
-Portfolio profissional construído com **Next.js 16, React 19, TypeScript, Tailwind CSS e Framer Motion**. Inclui formulário de contato integrado ao EmailJS, seções animadas, dark mode, internacionalização e integração direta com WhatsApp.
-
-**🔗 Demo:** [lipdev.vercel.app](https://lipdev.vercel.app/)
+Os projetos acima têm repositório público e demonstração vinculada. Experimentos e
+trabalhos privados são apresentados separadamente, sem expor código ou dados de
+clientes.
 
 ---
 
-## 💡 Philosophy
+## 💡 Princípios
 
-> *"Code is not just about solving problems.*
-> *It's about building solutions that scale, last, and generate real value."*
+> Código não serve apenas para resolver problemas: ele deve produzir soluções
+> claras, sustentáveis e úteis para quem as utiliza.
 
 Se você gosta do meu trabalho, considere dar uma ⭐ em algum repositório.
 Estou sempre aberto a colaborações, parcerias e ideias legais.
