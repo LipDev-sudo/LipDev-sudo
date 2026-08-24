@@ -42,7 +42,7 @@
 <p>
   <img src="https://img.shields.io/badge/Python-15121C?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
   <img src="https://img.shields.io/badge/Flask-15121C?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/REST_APIs-15121C?style=flat-square&logo=fastapi&logoColor=9D6BE0" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/REST_APIs-15121C?style=flat-square&logoColor=9D6BE0" alt="REST APIs" />
   <img src="https://img.shields.io/badge/SQLite-15121C?style=flat-square&logo=sqlite&logoColor=7D63C8" alt="SQLite" />
   <img src="https://img.shields.io/badge/MySQL-15121C?style=flat-square&logo=mysql&logoColor=9D6BE0" alt="MySQL" />
 </p>
