@@ -1,7 +1,7 @@
 # LipDev Python Backend GitHub Profile Design
 
-**Date:** August 24, 2026  
-**Repository:** `LipDev-sudo/LipDev-sudo`  
+**Date:** August 24, 2026
+**Repository:** `LipDev-sudo/LipDev-sudo`
 **Target branch:** `feat/python-backend-profile`
 
 ## Objective
